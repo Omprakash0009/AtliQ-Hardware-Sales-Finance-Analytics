@@ -128,7 +128,7 @@ Top performing countries in 2021:
 5. United Kingdom — ₹34.2M :contentReference[oaicite:3]{index=3}
 
 ### Visualization Placeholder
-[Insert Top Countries Sales Chart Here]
+![Insert Top Countries Sales Chart Here](https://github.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/blob/main/Top%205%20contry%20net%20sales.jpg?raw=true)
 
 ---
 
