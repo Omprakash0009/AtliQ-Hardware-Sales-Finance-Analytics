@@ -139,7 +139,7 @@ Top performing countries in 2021:
 - GM% decreased from 41.4% in 2019 to 36.4% in 2021 :contentReference[oaicite:4]{index=4}
 
 ### Visualization Placeholder
-[Insert Profit & Loss Dashboard Here]
+![Insert Profit & Loss Dashboard Here](https://github.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/blob/main/Profit%20&%20loss%20by%20fiscal%20year.jpg?raw=true)
 
 ---
 
