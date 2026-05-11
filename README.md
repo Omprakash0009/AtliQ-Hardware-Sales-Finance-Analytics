@@ -102,7 +102,7 @@ As a Data Analyst, my responsibilities included:
 
 ### Visualization Placeholder
 [Insert Customer Performance Dashboard Screenshot Here]
-(https://github.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/blob/main/Customer%20net%20sales%20performance.jpg)
+(https://github.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/blob/main/Customer%20net%20sales%20performance.jpg?raw=true)
 ---
 
 ## Market Performance vs Target
