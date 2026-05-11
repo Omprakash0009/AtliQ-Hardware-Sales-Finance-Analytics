@@ -96,7 +96,7 @@ As a Data Analyst, my responsibilities included:
 - Overall customer sales increased significantly in 2021 :contentReference[oaicite:1]{index=1}
 
 ### Visualization Placeholder
-[Insert Customer Performance Dashboard Screenshot Here]
+[https://raw.githubusercontent.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/b589044c1893820d53ef58d656b7383da8f3b151/Customer%20net%20sales%20performance.jpg]
 
 ---
 
