@@ -114,7 +114,7 @@ As a Data Analyst, my responsibilities included:
 - Overall company performance was 9.2% below target in 2021 :contentReference[oaicite:2]{index=2}
 
 ### Visualization Placeholder
-[Insert Market Performance vs Target Chart Here]
+![Insert Market Performance vs Target Chart Here](https://github.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/blob/main/Market%20performance%20vs%20target.jpg?raw=true)
 
 ---
 
