@@ -149,7 +149,7 @@ Top performing countries in 2021:
 - AQ GEN Z was among the lowest-selling products :contentReference[oaicite:5]{index=5}
 
 ### Visualization Placeholder
-[Insert Product Performance Chart Here]
+![Insert Product Performance Chart Here](https://github.com/Omprakash0009/AtliQ-Hardware-Sales-Finance-Analytics/blob/main/Top%205%20product%20and%20bottom%205%20product.jpg?raw=true)
 
 ---
 
